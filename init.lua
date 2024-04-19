@@ -1,0 +1,20 @@
+-- basics
+require("core.options")
+require("core.manager")
+require("core.keymaps")
+
+-- plugins
+require("plugins.configs.gruvbox")
+require("plugins.configs.telescope")
+require("plugins.configs.lualine")
+require("plugins.configs.comment")
+require("plugins.configs.alpha")
+require("plugins.configs.neotree")
+require("plugins.configs.ibl")
+require("plugins.configs.mason")
+require("plugins.configs.mason-lspconfig")
+require("plugins.configs.lspconfig")
+require("plugins.configs.none-ls")
+require("plugins.configs.cmp")
+require("plugins.configs.toggleterm")
+require("plugins.configs.oil")
