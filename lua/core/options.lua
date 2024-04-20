@@ -15,3 +15,7 @@ vim.cmd("set clipboard=unnamedplus")
 -- line numbers
 vim.cmd("set number")
 vim.cmd("set relativenumber")
+
+-- folding
+vim.cmd("set foldmethod=indent")
+vim.opt.foldlevelstart = 99
