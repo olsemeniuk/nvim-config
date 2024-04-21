@@ -4,7 +4,7 @@ require("core.manager")
 require("core.keymaps")
 
 -- plugins
-require("plugins.configs.gruvbox")
+require("plugins.configs.cattpuccin")
 require("plugins.configs.telescope")
 require("plugins.configs.lualine")
 require("plugins.configs.comment")
