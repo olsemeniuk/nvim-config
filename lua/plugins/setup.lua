@@ -70,4 +70,5 @@ return {
 		opts = {},
 		dependencies = { "nvim-tree/nvim-web-devicons" },
 	},
+	{ "m4xshen/autoclose.nvim" },
 }
