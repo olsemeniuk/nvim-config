@@ -54,4 +54,9 @@ return {
 		opts = {},
 	},
 	{ "lukas-reineke/indent-blankline.nvim", event = { "BufReadPre", "BufNewFile" }, main = "ibl" },
+	{
+		"lewis6991/gitsigns.nvim",
+		event = { "BufReadPre", "BufNewFile" },
+		opts = {},
+	},
 }
